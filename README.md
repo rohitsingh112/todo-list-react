@@ -1,0 +1,1 @@
+This is a simple todo list application built using ReactJS. Users can add new todo items, mark items as completed, and delete items from the list.This application is deployed on Netlify. You can access the live version [https://todolistbyrohit.netlify.app].
